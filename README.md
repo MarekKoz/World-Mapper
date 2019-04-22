@@ -15,7 +15,7 @@ User is able to turn on/off the High School layer, University Layer, Volcano Lay
 
 ### Screenshots
 
-* Whole map view and Controller in top right corner (scroll on the picture)
+* Whole map view and Controller in top right corner
 
 ![Alt text](https://github.com/MarekKoz/World-Mapper/blob/master/Map%20Images/Screen%20Shot%202019-04-22%20at%2012.21.38%20AM.png "Map View")
 
